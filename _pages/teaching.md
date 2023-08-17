@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: My Experience as Teaching Assistant (TA) in Reverse Chronological Order
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# All Courses
+### [NPRE 247](https://courses.illinois.edu/schedule/2023/fall/NPRE/247): Modeling Nuclear Energy System
+University of Illinois Urbana-Champaign, Fall 2023
 
-Organize your courses by years, topics, or universities, however you like!
+### TKN 2175: Pengantar Teknologi Nuklir (Introduction to Nuclear Technology)
+Universitas Gadjah Mada, Fall 2016
+
+
+# Lecture Notes
