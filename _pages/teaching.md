@@ -16,3 +16,4 @@ Universitas Gadjah Mada, Fall 2016
 
 
 # Lecture Notes
+### [(Incomplete) Derivation of Neutron Transport Equation](/assets/pdf/derivation-NTE.pdf)
