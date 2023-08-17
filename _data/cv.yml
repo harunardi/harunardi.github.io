@@ -2,96 +2,382 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Harun Ardiansyah
     - name: Languages
-      value: English, German
+      value: Indonesian (native), English (professional)
+    - name: Summary
+      value: Harun is a PhD student at the Department of Nuclear, Plasma, and Radiological Engineering at University of Illinois Urbana-Champaign (UIUC) specialized in nuclear reactor physics and analysis. He is part of Analysis of Reactor Transient and Stability (ARTS) group at UIUC supervised by Prof. Tomasz Kozlowski. Along the years, he has involved in some projects related to nuclear reactor physics of advanced reactor, high-performance computing, analysis and method development. In his PhD research, he focuses on power reactor diagnostics and noise analysis for advanced reactor application. Aside his academic pursuit, he is also involved in energy policy activism in his home country of Indonesia. He is currently building a nuclear technology think-tank “Siwabessy Initiative” with his partners.
+#      links:
+#        - link: /assets/pdf/CV_RequenaPlensJoseManuel_SPA.pdf
+#          name: CV PDF [SPANISH]
+#        - link: /assets/pdf/CV_RequenaPlensJoseManuel_ENG.pdf
+#          name: CV PDF [ENGLISH]
 
-- title: Education
+- title: Formal education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Nuclear, Plasma, and Radiological Engineering
+      institution: University of Illinois Urbana-Champaign (<a href="https://illinois.edu/"><b>UIUC</b></a>)
+      department: Analysis of Reactor Transients and Stability (<a href="https://arts.npre.illinois.edu/"><b>ARTS</b></a>)
+#      location: Urbana, IL, USA
+      year: current
+      maindescription: 
+        Codes, Transients, Noises
+#        <br><br>
+#        In this project, we propose to combine new air-coupled ultrasound transducers with hyperbolic metamaterials to design vision systems that exceed the imaging capabilities of traditional systems. We will investigate the application of acoustic hyperlenses in the biomedical context to image beyond the diffraction limit, enabling imaging with deep sub-wavelength resolution. In addition, we will investigate the capabilities of air-coupled chiral hyperlenses and Bessel beams to manipulate objects, aiming to efficiently trap, move and rotate microparticles on the subwavelength scale. The results of this project could have a wide application in biomedical applications but also in agri-food and industrial applications.
+#      linkitems:
+#        - link: /assets/pdf/degree/PhDExpEng.pdf
+#         linkname: 'Academic record'
+    - title: Master's Degree in Nuclear Engineering and Radiological Sciences
+      institution: University of Michigan (<a href="https://umich.edu/"><b>UMich</b></a>)
+      department: Nuclear Reactor Analysis and Methods (<a href="https://nuram.engin.umich.edu/"><b>NURAM</b></a>)
+#      location: Ann Arbor, MI, USA
+      year: 2021
+      maindescription: 
+        Evaluation of PBMR-400 Core Design Steady State Condition with Serpent and AGREE.
+#        <br><br>
+#        Final Master's thesis entitled <strong>Difusores acústicos basados en resonadores de membrana y placa</strong> ('Acoustic diffusers based on membrane and plate resonators'), qualified with honors with special mention."
+#      linkitems:
+#        - link: /assets/pdf/degree/Acoustic.pdf
+#          linkname: 'Diploma'
+#        - link: /assets/pdf/degree/AcousticExpEng.pdf
+#          linkname: 'Academic record'
+    - title: Bachelor's Degree in Nuclear Engineering
+      institution: Universitas Gadjah Mada (<a href="https://ugm.ac.id/"><b>UGM</b></a>)
+      department: Nuclear Engineering and Engineering Physics (<a href="https://tf.ugm.ac.id/en/beranda-english/"><b>DNEEP</b></a>)
+#      location: Yogyakarta, Indonesia
+      year: 2018
+      maindescription: 
+        "Core Design Parametric Study of Integral Pressurized Water Reactor (IPWR) with Mixed Oxide Ceramic Fuel using SRAC Code System"
+#        <br><br>
+#        Final Degree Work entitled <a href='http://hdl.handle.net/10045/77578'>Estudio de la relación campo directo/reverberado; útil/perjudicial</a> ('Study of the direct/reverberated field relationship; useful/harmful')"
+#      linkitems:
+#        - link: /assets/pdf/degree/Telecom.pdf
+#          linkname: 'Diploma'
+#        - link: /assets/pdf/degree/TelecomExpEng.pdf
+#          linkname: 'Academic record'
+#    - title: Certificate of Higher Education in Electronics Technician & Superior Sound Technician
+#      institution: <a href"https://elche.salesianos.edu/colegio/san-jose-artesano/">IES Salesianos (San Jóse Artesano)</a> & <a href"https://ies-berlanga.info/index.php/es/">IES Luis García Berlanga</a>
+#      location: Elche & Alicante, Spain
+#      year: 2009/2011
+#      linkitems:
+#        - link: /assets/pdf/degree/ElectronicSound.pdf
+#         linkname: 'Diplomas'
 
-- title: Experience
+#- title: Certificates
+#  type: list_groups
+#  contents:
+#    - category: Occupational Health and Safety
+#      icon: fas fa-medkit
+#      items:
+#        - name: Generic
+#          school: INVASSAT
+#          time: 50 Hours
+#          link: /assets/pdf/certificates/PRL/PRL_Generico.pdf
+#          linkname: CERT
+#        - name: Nanomaterials
+#          school: INVASSAT
+#          time: 50 Hours
+#          link: /assets/pdf/certificates/PRL/PRL_Nanomateriales.pdf
+#          linkname: CERT
+#        - name: Chemical sector
+#          school: INVASSAT
+#          time: 50 Hours
+#          link: /assets/pdf/certificates/PRL/PRL_Quimico.pdf
+#          linkname: CERT
+#        - name: Emergencies
+#          school: INVASSAT
+#          time: 70 Hours
+#          link: /assets/pdf/certificates/PRL/PRL_Emergencias.pdf
+#          linkname: CERT
+#        - name: Nutrition
+#          school: INVASSAT
+#          time: 50 Hours
+#          link: /assets/pdf/certificates/PRL/PRL_Alimentario.pdf
+#          linkname: CERT
+#        - name: Educational
+#          school: INVASSAT
+#          time: 50 Hours
+#          link: /assets/pdf/certificates/PRL/PRL_Educativo.pdf
+#          linkname: CERT
+#        - name: Services
+#          school: INVASSAT
+#          time: 50 Hours
+#          link: /assets/pdf/certificates/PRL/PRL_Servicios.pdf
+#          linkname: CERT
+#        - name: Researcher
+#          school: UPV
+#          time: 15 Hours
+#          link: /assets/pdf/certificates/PRL/CertificadoPRLUPV.pdf
+#          linkname: CERT
+#
+#    - category: Transversal competences
+#      icon: fas fa-users
+#      items:
+#        - name: Gender perspective
+#          school: EVES
+#          time: 20 Hours
+#          link: /assets/pdf/certificates/PerspectivaDeGenero.pdf
+#          linkname: CERT
+#        - name: Teamwork
+#          school: Labora
+#          time: 25 Hours
+#          link: /assets/pdf/certificates/TrabajoEnEquipo.pdf
+#          linkname: CERT
+#        - name: Design Thinking
+#          school: Labora
+#          time: 25 Hours
+#          link: /assets/pdf/certificates/DesignThinking.pdf
+#          linkname: CERT
+#        - name: Critical Thinking
+#          school: Labora
+#          time: 25 Hours
+#          link: /assets/pdf/certificates/PensamientoCritico.pdf
+#          linkname: CERT
+#        - name: Adaptability, flexibility and agility
+#          school: Labora
+#          time: 25 Hours
+#          link: /assets/pdf/certificates/AdaptacionFlexibilidadAgilidad.pdf
+#          linkname: CERT
+#        - name: Autonomy, innovation, ...
+#          school: Labora
+#          time: 25 Hours
+#          link: /assets/pdf/certificates/AutonomiaInnovacion.pdf
+#          linkname: CERT
+#        - name: Improving profesional efficiency
+#          school: Labora
+#          time: 25 Hours
+#          link: /assets/pdf/certificates/MejoraEficiencia.pdf
+#          linkname: CERT
+#        - name: Entrepreneur gender perspective
+#          school: UPV
+#          time: 20 Hours
+#          link: /assets/pdf/certificates/EmprendimientoPerspectivaGenero.pdf
+#          linkname: CERT
+#    - category: Labor/Industrial
+#      icon: fas fa-industry
+#      items:
+#        - name: Op. Industrial trucks
+#          school: Gescoform
+#          time: 15 Hours
+#          link: /assets/pdf/certificates/Certificado_Carretilla.pdf
+#          linkname: CERT
+#        - name: Food Hygiene Course
+#          school: Asonoman
+#          time: 30 Hours
+#          link: https://www.asonaman.es/files/crt/2022/10/09/CBBUWIQEBMUJKENWAKEZHYAGHKKA.pdf
+#          linkname: CERT
+#        - name: Self-protection plans
+#          school: INVASSAT
+#          time: 15 Hours
+#          link: /assets/pdf/certificates/PlanesAutoproteccion.pdf
+#          linkname: CERT
+#        - name: Static electricity
+#          school: INVASSAT
+#          time: 15 Hours
+#          link: /assets/pdf/certificates/ElectricidadEstatica.pdf
+#          linkname: CERT
+#        - name: Data privacy
+#          school: CSIRT-CV
+#          time: 10 Hours
+#          link: /assets/pdf/certificates/ProteccionDeDatos.pdf
+#          linkname: CERT
+#    - category: Information technology
+#      icon: fas fa-laptop-code
+#      items:
+#        - name: Using Python for Research
+#          school: HardvardX
+#          time: 50 Hours
+#          link: https://courses.edx.org/certificates/f1fb6cbd6f39431c9f57c7ee3a5dc3ad
+#          linkname: CERT
+#        - name: Analyzing Data With Python
+#          school: IBM
+#          time: 20 Hours
+#          link: https://courses.edx.org/certificates/62fed4c86a17427ebb5b6bbbc39e34df
+#          linkname: CERT
+#        - name: Visualizing Data with Python
+#          school: IBM
+#          time: 20 Hours
+#          link: https://courses.edx.org/certificates/0f49b9baa42f4464b2e0d99ade544790
+#          linkname: CERT
+
+- title: Research experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Student Research Assistant
+      institution: University of Illinois Urbana-Champaign (<a href="https://illinois.edu/"><b>UIUC</b></a>)
+      department: Analysis of Reactor Transients and Stability (<a href="https://arts.npre.illinois.edu/"><b>ARTS</b></a>)
+#      location: Lliria, Spain
+      year: Aug 2021 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Research topic: Neutron diffusion code development, power reactor noise analysis for advanced reactors, safety analysis of advanced reactors (Molten Salt Reactors and High Temperature Gas-cooled Reactors)"
+        - "Advisor: Prof. Tomasz Kozlowski"
+
+    - title: Graduate Student Research Assistant
+      institution: University of Michigan (<a href="https://umich.edu/"><b>UMich</b></a>)
+      department: Nuclear Reactor Analysis and Methods (<a href="https://nuram.engin.umich.edu/"><b>NURAM</b></a>)
+      year: Nov 2019 - Aug 2021
+#      location: Ann Arbor, MI, USA
+#      maindescription: 
+#        'Researcher in the R&D line: <b>Acoustic Metamaterials for Ultrasound Histotripsy treatments</b>.
+#        <br><br>
+#        <b>Project</b>: New generation of smart metasurfaces based on additive manufacturing for strategic applications in telecommunications (Metasmart). Funded by the Valencian Agency for Innovation (Reference: INNEST/2022/345).
+#        <br><br>
+#        Some planned tasks:'
       description:
-        - Description 1.
-        - Description 2.
+        - "Performed steady-state and transient analysis of PBMR-400 core design, validation and verification of HTR-10 with Serpent and AGREE."
+        - "Advisors and Mentors: Prof. Thomas Downar, Dr. Volkan Seker"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Intern
+      institution: P.T. Energi Sterilia Higiena (Indonesia)
+#      department: Medical Imaging and Therapy Systems (<a href="https://www.i3m-stim.i3m.upv.es/"><b>i3M</b></a>)
+      year: Jun 2018 - Dec 2018
+#      location: Valencia, Spain
+#      maindescription: 
+#        'The main objective is to conduct research and development of acoustic metamaterials for use in architectural applications and medical imaging.
+#        <br><br>
+#        Goals achieved:'
       description:
+        - "Conducted and made reports of neutronics modeling and simulation of Thorium Generator 3 kWe."
+        - "Mentor: Dr. Andang Widi Harto."
+#        - title: 'Two publications in national and international congresses:'
+#          contents: 
+#            - Tecniacústica - <a href="/assets/pdf/paper-resources/Conferences/Tecniacustica/JimenezTEC2020a.pdf">Beyond Schroeder diffusers using acoustic metasurfaces</a>.
+#            - Euronoise - <a href="/assets/pdf/paper-resources/Conferences/Euronoise/plensEuro2021_2.pdf">Sound diffusing metasurfaces based on elastic plates and membranes</a>
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Intern
+      institution: Center of Nuclear Fuel Technology, National Nuclear Energy Agency of Indonesia
+#      department: Complex Media Acoustics Group of IGIC (<a href="http://igic.webs.upv.es/"><b>IGIC</b></a>)
+      year: Jan 2017 - Feb 2017
+#      location: Gandia, Spain
+#      maindescription: 
+#        "Implement and experimentally validate a sound mitigation method, applicable to a real space vehicle launch configuration (VEGA), that results in a significant decrease in sound pressure levels generated in the launch area during spacecraft liftoff.
+#        <br><br>
+#        Project funded by ESA (European Space Agency) with reference ESA AO/1-9479/18/NL/LvH, in collaboration with: CNRS/Laboratoire d'Acoustique de la Université du Mans; COMET Ingeniería; Spanish National Research Council (CSIC) and Polytechnic University of Madrid.
+#        <br><br>
+#        All project objectives were completed at 100%:"
+      description:
+        - Conducted research on Cesium separation using cation exchange method
+        - "Mentor: Ir. Rosika Kriswarini"
 
-- title: Open Source Projects
+- title: Teaching/Mentoring experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Laboratory Assistant
+      institution: Universitas Gadjah Mada (<a href="https://ugm.ac.id/"><b>UGM</b></a>)
+      department: Nuclear Engineering and Engineering Physics (<a href="https://tf.ugm.ac.id/en/beranda-english/"><b>DNEEP</b></a>)
+      year: Mar 2017 - May 2018
+      description:
+        - "Course: Radiation Detection and Measurement Laboratory Works."
+        - Assisted lab works on multichannel analyzer, prepared lab syllabus, handouts, pre-tests, and exams for 60 sophomores nuclear engineering students.
 
-- title: Honors and Awards
+    - title: Lecturer Assistant
+      institution: Universitas Gadjah Mada (<a href="https://ugm.ac.id/"><b>UGM</b></a>)
+      department: Nuclear Engineering and Engineering Physics (<a href="https://tf.ugm.ac.id/en/beranda-english/"><b>DNEEP</b></a>)
+      year: Aug 2016 - Dec 2016
+      description:
+        - "Course: Introduction to Nuclear Technology."
+        - Gave substitute lectures and review/discussion sessions, held office hours, and prepared supplemental materials for ~60 sophomores nuclear engineering students.
+        - "Primary Instructor/Lecturer: Ir. Mondjo, M.T."
+
+- title: Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Master's Scholarship
+      institution: Indonesia Endowment Fund for Education (LPDP)
+      year: 2018
 
-- title: Academic Interests
-  type: nested_list
+- title: Organizations
+  type: time_table
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Co-founder
+      institution: Siwabessy Initiative
+      year: 2021 - Now
+    - title: Member
+      institution: American Nuclear Society
+      year: 2020 - Now
+    - title: Vice President
+      institution: Indonesian Student Organization at the United States
+      year: Jul 2022 - Now
+    - title: HRD Co-director
+      institution: Indonesian Student Organization at the United States
+      year: Jul 2021 - Jun 2022
+    - title: Chair of Energy Committee
+      institution: Overseas Indonesian Students' Association Alliance
+      year: Aug 2021 - Jul 2022
+    - title: Vice President
+      institution: Indonesian Student Organization at the UIUC
+      year: Jun 2021 - May 2022
+    - title: Vice President
+      institution: Indonesian Student Organization at the University of Michigan
+      year: Jan 2021 - May 2021
+    - title: Member
+      institution: Institute of Nuclear Material Management (INMM) Student Chapter Universitas Gadjah Mada
+      year: 2016 - 2017
+    - title: Member
+      institution: National Nuclear Youth Community (KOMMUN) Chapter Yogyakarta
+      year: 2015 - 2017
+
+- title: Professional activities
+  type: time_table
+  contents:
+    - title: Session chair
+      institution: Energy Security & New and Renewable Energy, Astechnova
+      year: 2021
+
+- title: Other knowledge and skills
+  type: list_groups
+  contents:
+    - category: Programing languages
+      icon: fas fa-code
       items:
-        - Description 1.
-        - Description 2.
+        - name: MATLAB
+          level: Professional level.
+        - name: C++
+          level: Intermediate level..
+        - name: Python
+          level: Intermediate/advanced level.
+    - category: Software
+      icon: fas fa-window-maximize
+      items:
+        - name: LabView
+          level: Intermediate level.
+        - name: Excel
+          level: Advanced level.
+        - name: Suite Adobe
+          level: Intermediate level.
+    - category: Document composition
+      icon: fas fa-book
+      items:
+        - name: LaTeX
+          level: Advanced level.
+        - name: Word
+          level: Intermediate/advanced level.
+        - name: Power Point
+          level: Advanced level.
+    - category: Operating systems
+      icon: fas fa-desktop
+      items:
+        - name: MacOS
+          level: Advanced level.
+        - name: Windows
+          level: Advanced level.
+        - name: Linux
+          level: Intermediate/advanced level.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
