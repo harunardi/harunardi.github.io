@@ -1,76 +1,109 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Harun Ardiansyah",
+    "email": "haruna2@illinois.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://haruna2.github.io",
+    "summary": "PhD Candidate at NPRE UIUC. Interested in Reactor Physics, Neutron Noise, and Computational Methods.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Urbana",
       "countryCode": "US",
-      "region": ""
+      "region": "IL"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=X9L09oAAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-2426-038X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "harunardi",
+        "url": "https://github.com/harunardi"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Illinois Urbana Champaign",
+      "area": "Ph.D in Nuclear, Plasma, and Radiological Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "August 2021",
+      "endDate": "December 2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Michigan",
+      "area": "M.S. in Nuclear Engineering and Radiological Sciences",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "August 2019",
+      "endDate": "May 2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Universitas Gadjah Mada",
+      "area": "B.Eng. in Nuclear Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "September 2014",
+      "endDate": "October 2018",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Programming Languages & Tools",
+      "level": "",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "Git",
+        "LaTeX",
+        "Jupyter Notebook"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Reactor Physics",
+        "Neutron Transport Theory",
+        "Monte Carlo Simulations",
+        "Deterministic Methods",
+        "Neutron Noise Analysis",
+        "Data Analysis & Visualization"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Indonesian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Proficiency"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Evaluation of PBMR-400 Core Design Steady State Condition with Serpent and AGREE",
+      "publisher": "Journal of Physics: Conference Series",
+      "releaseDate": "2021-10-01",
+      "website": "https://iopscience.iop.org/article/10.1088/1742-6596/2048/1/012024",
+      "summary": "The neutronics simulation of the PBMR-400 using the deterministic core simulator AGREE with multigroup cross sections generated using the Monte Carlo code Serpent showed considerable improvement in the agreement with the full core Serpent result as the number of energy groups was increased. An eigenvalue improvement of approximately 530 pcm was observed when the number of energy groups was increased from 2 to 23. However, even with 7 energy groups sufficiently accurate results were obtained with could be considered acceptable for core analysis. Similar improvements were observed in the flux and power distributions as the number of energy groups were increased. Work is continuing on the incorporation of assembly discontinuity factors into the deterministic core calculation, as well as the analysis of calculations at the full range of core power and temperature conditions. This work will involve the assessment of using color set or supercell models at the various temperature conditions instead of relying on full core Monte Carlo for every branch calculation necessary for practical reactor simulation."
     },
     {
       "name": "Paper Title Number 2",
@@ -101,27 +134,6 @@
       "date": "2012-03-01",
       "location": "San Francisco, CA, USA",
       "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
     }
   ],
   "teaching": [
@@ -139,14 +151,19 @@
       "role": "Workshop",
       "description": ""
     }
-  ],
-  "portfolio": [
+  ],  
+  "awards": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Award Title 1",
+      "date": "2010-01-01",
+      "awarder": "Awarding Organization 1",
+      "summary": ""
+    },
+    {
+      "title": "Award Title 2",
+      "date": "2012-01-01",
+      "awarder": "Awarding Organization 2",
+      "summary": ""
     }
   ]
 }
