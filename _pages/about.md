@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Codes, Transients, and Noises"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a PhD student in nuclear engineering at the University of Illinois Urbana-Champaign. I am interested in Nuclear Reactor Physics and Analysis, Reactor Diagnostics, and Power Reactor Noise Analysis. Apart from studying, I am eager to extend my research experience in multiphysics analysis. 
+
+I start my PhD program in Fall 2021 with a research assistantship. Besides my academic pursuit, I am interested in nuclear energy policy and advocacy. I host a podcast called Bicara Nuklir, which means "Talking about Nuclear" in English. As the title suggests, Bicara Nuklir is a podcast talking about nuclear energy and technology. Starting in March 2020, Bicara Nuklir has had more than 70 episodes and 2700 streams. 
+
+Along with my 3 partners, I am also building a nuclear energy and technology think tank called Siwabessy Initiative, referencing the name of the largest research reactor in Indonesia that s. Through the Siwabessy Initiative, we aim to advocate, disseminate, and innovate in nuclear energy and technology in Indonesia.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 

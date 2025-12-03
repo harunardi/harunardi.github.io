@@ -141,40 +141,42 @@
       "summary": "To some extent, the diffusion approximation still works quite well to analyze the IPWR core model. Even though some discrepancies were observed in the results, the significantly low computational cost is a benefit that cannot be neglected in the diffusion method. Indeed, further improvement in the method used in this work is  needed if one wants more accurate results for more reliable analysis.  ACKNOWLEDGMENT  Both authors would like to acknowledge the Indonesia Endowment Fund of Education (Lembaga Pengelola Dana Pendidikan/LPDP) for funding the authors’ education and making this work possible."
     }
   ],
+  "presentations": [
+    {
+      "name": "Talk 1 on Relevant Topic in Your Field",
+      "event": "UC San Francisco, Department of Testing",
+      "date": "2012-03-01",
+      "location": "San Francisco, CA, USA",
+      "description": ""
+    }
+  ],
   "teaching": [
     {
-      "course": "Fundamentals of Nuclear Engineering (NPRE 501)",
-      "institution": "University of Illinois Urbana Champaign",
-      "date": "2025-09-01",
-      "role": "Teaching Assistant",
+      "course": "Teaching experience 1",
+      "institution": "University 1, Department",
+      "date": "2014-01-01",
+      "role": "Undergraduate course",
       "description": ""
     },
     {
-      "course": "Modeling of Nuclear Energy Systems (NPRE 247)",
-      "institution": "University of Illinois Urbana Champaign",
-      "date": "2025-09-01",
-      "role": "Teaching Assistant",
-      "description": ""
-    },
-    {
-      "course": "Neutron Diffusion and Transport (NPRE 455)",
-      "institution": "University of Illinois Urbana Champaign",
-      "date": "2025-01-15",
-      "role": "Teaching Assistant",
+      "course": "Teaching experience 2",
+      "institution": "University 1, Department",
+      "date": "2015-01-01",
+      "role": "Workshop",
       "description": ""
     }
   ],  
   "awards": [
     {
-      "title": "Mavis Future Faculty Fellowship",
-      "date": "2024-2025",
-      "awarder": "The Grainger College of Engineering, UIUC",
+      "title": "Award Title 1",
+      "date": "2010-01-01",
+      "awarder": "Awarding Organization 1",
       "summary": ""
     },
     {
-      "title": "Indonesia Endowment Fund for Education (LPDP) Scholarship",
-      "date": "2018-2021",
-      "awarder": "LPDP Indonesia",
+      "title": "Award Title 2",
+      "date": "2012-01-01",
+      "awarder": "Awarding Organization 2",
       "summary": ""
     }
   ]
