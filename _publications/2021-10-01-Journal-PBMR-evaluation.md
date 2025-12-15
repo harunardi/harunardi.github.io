@@ -2,7 +2,7 @@
 title: "Evaluation of PBMR-400 Core Design Steady State Condition with Serpent and AGREE"
 collection: publications
 category: manuscripts
-permalink: /publication/PBMR-evaluation
+permalink: /publication/2021-10-01-Journal-PBMR-evaluation
 excerpt: 'The neutronics simulation of the PBMR-400 using the deterministic core simulator AGREE with multigroup cross sections generated using the Monte Carlo code Serpent showed considerable improvement in the agreement with the full core Serpent result as the number of energy groups was increased. An eigenvalue improvement of approximately 530 pcm was observed when the number of energy groups was increased from 2 to 23. However, even with 7 energy groups sufficiently accurate results were obtained with could be considered acceptable for core analysis. Similar improvements were observed in the flux and power distributions as the number of energy groups were increased. Work is continuing on the incorporation of assembly discontinuity factors into the deterministic core calculation, as well as the analysis of calculations at the full range of core power and temperature conditions. This work will involve the assessment of using color set or supercell models at the various temperature conditions instead of relying on full core Monte Carlo for every branch calculation necessary for practical reactor simulation.'
 date: 2021-10-01
 venue: 'Journal of Physics: Conference Series'

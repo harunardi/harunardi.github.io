@@ -26,7 +26,7 @@ author:
   avatar           : "PhotoHarunSquare.png"
   name             : "Harun Ardiansyah"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at NPRE UIUC. Interested in Reactor Physics, Neutron Noise, and Computational Methods."
+  bio              : "PhD in Nuclear Engineering. Interested in Reactor Physics, Neutron Noise, and Computational Methods."
   location         : "Urbana, IL, USA"
   employer         : "UIUC"
   uri              : # URL
@@ -84,12 +84,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  books:
+    title: 'Books and Book Chapters'
+  media:
+    title: 'Media Articles'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
