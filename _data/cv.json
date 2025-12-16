@@ -3,7 +3,7 @@
     "name": "Harun Ardiansyah",
     "email": "haruna2@illinois.edu",
     "phone": "",
-    "website": "https://haruna2.github.io",
+    "website": "https://harunardi.github.io",
     "summary": "PhD in Nuclear Engineering. Interested in Reactor Physics, Neutron Noise, Computational Methods, and Fuel Cycle Analysis.",
     "location": {
       "address": "",
@@ -98,41 +98,7 @@
   "interests": [],
   "references": [],
   "publications": [],
-  "teaching": [
-    {
-      "course": "Fundamentals of Nuclear Engineering (NPRE 501)",
-      "institution": "University of Illinois Urbana Champaign",
-      "date": "2025-09-01",
-      "role": "Teaching Assistant to Prof. April Novak",
-      "semesters": [
-      "Fall 2025",
-      "Fall 2024"
-      ],
-      "description": ""
-    },
-    {
-      "course": "Modeling of Nuclear Energy Systems (NPRE 247)",
-      "institution": "University of Illinois Urbana Champaign",
-      "date": "2025-09-01",
-      "role": "Teaching Assistant to Prof. Tomasz Kozlowski",
-      "semesters": [
-      "Fall 2025",
-      "Fall 2023"
-      ],
-      "description": ""
-    },
-    {
-      "course": "Neutron Diffusion and Transport (NPRE 455)",
-      "institution": "University of Illinois Urbana Champaign",
-      "date": "2025-01-15",
-      "role": "Teaching Assistant to Prof. April Novak",
-      "semesters": [
-      "Spring 2025",
-      "Spring 2024"
-      ],
-      "description": ""
-    }
-  ],  
+  "teaching": [],  
   "awards": [
     {
       "title": "Mavis Future Faculty Fellowship",
