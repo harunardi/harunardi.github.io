@@ -2,7 +2,6 @@
   "basics": {
     "name": "Harun Ardiansyah",
     "email": "haruna2@illinois.edu",
-    "phone": "",
     "website": "https://harunardi.github.io",
     "summary": "PhD in Nuclear Engineering. Interested in Reactor Physics, Neutron Noise, Computational Methods, and Fuel Cycle Analysis.",
     "location": {
@@ -33,7 +32,7 @@
   "work": [],
   "education": [
     {
-      "institution": "University of Illinois Urbana Champaign",
+      "institution": "University of Illinois Urbana-Champaign",
       "area": "Ph.D in Nuclear, Plasma, and Radiological Engineering",
       "studyType": "",
       "startDate": "August 2021",
