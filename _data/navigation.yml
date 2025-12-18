@@ -14,15 +14,15 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "Podcast"
     url: /podcast/
     
   - title: "CV"
     url: /cv/
 
+#  - title: "Blog Posts"
+#    url: /year-archive/
+#    
 #  - title: "Talks"
 #    url: /talks/    
 #
