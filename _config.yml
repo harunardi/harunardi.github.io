@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Harun Ardiansyah"
 title_separator          : "-"
 name                     : &name "Harun Ardiansyah"  # Update this with your name
@@ -27,10 +27,10 @@ author:
   name             : "Harun Ardiansyah"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Nuclear Engineering. Interested in Reactor Physics, Neutron Noise, and Computational Methods."
-  location         : "Urbana, IL, USA"
-  employer         : "UIUC"
+  location         : "Cibinong, Indonesia"
+  employer         : "UNHAN"
   uri              : # URL
-  email            : "haruna2@illinois.edu" 
+  email            : "harunardi13@gmail.com" 
 
   # Academic websites
   academia         : # URL
